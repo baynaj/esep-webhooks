@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "96xLr3K39Juhps7jGT9eR51x1zYRSju9OVViOEzswcaWiC/Lw0uGzJti6hEExsSCqVICi2SB2GSZvGaAZqmwow==",
+  "dgSpecHash": "LiV3CCM4hwKYqOoNQc9HcxQP1BRXR7dPjMHn1cr11piDiz66ZWifqInR1czZ6ezUhvUFwnVD9QkzPNKiP2pnYw==",
   "success": true,
   "projectFilePath": "C:\\Users\\bmar1\\source\\repos\\esep-webhooks\\EsepWebhook\\src\\EsepWebhook\\EsepWebhook.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bmar1\\.nuget\\packages\\amazon.lambda.core\\2.2.0\\amazon.lambda.core.2.2.0.nupkg.sha512",
     "C:\\Users\\bmar1\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.1\\amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
     "C:\\Users\\bmar1\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\bmar1\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\8.0.0\\microsoft.netcore.app.runtime.linux-x64.8.0.0.nupkg.sha512",
+    "C:\\Users\\bmar1\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\8.0.0\\microsoft.aspnetcore.app.runtime.linux-x64.8.0.0.nupkg.sha512",
     "C:\\Users\\bmar1\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.0\\microsoft.netcore.app.crossgen2.win-x64.8.0.0.nupkg.sha512"
   ],
   "logs": []
